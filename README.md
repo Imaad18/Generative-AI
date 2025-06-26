@@ -1,36 +1,65 @@
-# 🧠 Introduction to Generative AI – Course Notes
+<h1 align="center">🧠 Introduction to Generative AI – Google Cloud</h1>
 
-This repository contains detailed notes and explanations from the **"Introduction to Generative AI"** course offered by **Google Cloud Skills Boost**.
-
-📓 Access the full Colab notebook here:  
-🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1EYz-NZXBxlkaG2wHa1BlmuADM3R6Rmvy#scrollTo=bARz1ZhrfnFn)
-
----
-
-## 📚 Notebook Content Overview
-
-### 1. Introduction to Generative AI
-- What is Generative AI?
-- Difference between traditional AI and GenAI
-- Discriminative vs. Generative models
-- Real-world applications
-
-### 2. Large Language Models (LLMs)
-- Definition and examples (GPT-4, PaLM 2)
-- Tokenization and transformer architecture
-- Pretraining and fine-tuning
-- Strengths and limitations
-
-### 3. Responsible AI
-- Understanding risks: bias, hallucination, misinformation
-- Google's AI Principles
-- Ethical and safe AI development practices
-
-### 4. Generative AI at Google
-- Overview of Vertex AI, PaLM API, Imagen, and MakerSuite
-- Use cases and how developers can build with these tools
-- Basics of prompt engineering
+<p align="center">
+  📓 <strong>Complete Course Notes</strong> &nbsp;|&nbsp; ✍️ Written by Imaad Mahmood &nbsp;|&nbsp; 🌐 Google Cloud Skills Boost
+</p>
 
 ---
 
-The notebook is intended as a detailed reference and learning resource for anyone new to Generative AI and its applications in the real world.
+## 🚀 Notebook Preview
+
+🔗 **Access the full Colab notebook here:**  
+[📘 Google Colab – Intro to Generative AI](https://colab.research.google.com/drive/1EYz-NZXBxlkaG2wHa1BlmuADM3R6Rmvy#scrollTo=bARz1ZhrfnFn)
+
+---
+
+## 🧩 What’s Inside
+
+### 🔹 1. Introduction to Generative AI
+- What is GenAI?
+- Traditional AI vs Generative AI
+- Discriminative vs Generative models
+- Real-world GenAI applications (chatbots, design, coding, etc.)
+
+---
+
+### 🔹 2. Large Language Models (LLMs)
+- What are LLMs? (GPT-4, PaLM 2, etc.)
+- Transformers and attention mechanisms
+- Tokens & tokenization
+- Pretraining vs fine-tuning
+- Capabilities and limitations of LLMs
+
+---
+
+### 🔹 3. Responsible AI
+- Understanding AI risks (bias, hallucination, misinformation)
+- Privacy, ethics, and safety concerns
+- Google’s 7 AI Principles for responsible development
+
+---
+
+### 🔹 4. GenAI Tools by Google
+- Overview of Google’s GenAI stack:
+  - 🧠 **Vertex AI**
+  - ✍️ **PaLM 2 API**
+  - 🎨 **Imagen**
+  - ⚙️ **MakerSuite**
+- Quick intro to **prompt design** and GenAI development
+
+---
+
+## ✨ Highlights
+- 📖 Easy-to-understand breakdowns
+- ✅ Structured by topic
+- 🎯 Perfect for students, beginners & self-learners
+
+---
+
+## 📌 Author
+**Imaad Mahmood** – BS AI Student | AI & GenAI Explorer  
+📫 *Feel free to explore my GitHub for more AI content.*
+
+---
+
+> ⭐️ If you found this helpful, star the repo and share it with your peers!
