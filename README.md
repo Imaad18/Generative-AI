@@ -1,67 +1,65 @@
 <h1 align="center">🧠 Introduction to Generative AI – Google Cloud</h1>
 
 <p align="center">
-  <strong>📘 Full Notebook & Notes</strong> | ✍️ By Imaad Mahmood | 🎓 Google Cloud Skills Boost
+  📓 <strong>Complete Course Notes</strong> &nbsp;|&nbsp; ✍️ Written by Imaad Mahmood &nbsp;|&nbsp; 🌐 Google Cloud Skills Boost
 </p>
 
 ---
 
-## 🔗 Access the Notebook
-➡️ **[Open in Google Colab](https://colab.research.google.com/drive/1EYz-NZXBxlkaG2wHa1BlmuADM3R6Rmvy#scrollTo=bARz1ZhrfnFn)**
+## 🚀 Notebook Preview
+
+🔗 **Access the full Colab notebook here:**  
+[📘 Google Colab – Intro to Generative AI](https://colab.research.google.com/drive/1EYz-NZXBxlkaG2wHa1BlmuADM3R6Rmvy#scrollTo=bARz1ZhrfnFn)
 
 ---
 
-## 🧩 Course Breakdown
+## 🧩 What’s Inside
 
-### 🌟 **1. Introduction to Generative AI**
-🧠 Learn what Generative AI is, how it differs from traditional AI, and explore real-world use cases like:
-- Content generation
-- Chatbots
-- Music and art creation
-- Code generation
+### 🔹 1. Introduction to Generative AI
+- What is GenAI?
+- Traditional AI vs Generative AI
+- Discriminative vs Generative models
+- Real-world GenAI applications (chatbots, design, coding, etc.)
 
 ---
 
-### 📚 **2. Large Language Models (LLMs)**
-🚀 Dive into how models like PaLM 2 and GPT-4 work:
-- Tokenization & transformers
+### 🔹 2. Large Language Models (LLMs)
+- What are LLMs? (GPT-4, PaLM 2, etc.)
+- Transformers and attention mechanisms
+- Tokens & tokenization
 - Pretraining vs fine-tuning
-- Zero-shot and few-shot learning
-- Common capabilities and limitations
+- Capabilities and limitations of LLMs
 
 ---
 
-### 🛡️ **3. Responsible AI**
-⚖️ Understand the ethical side of AI:
-- Risks: hallucinations, bias, misinformation
-- Google's 7 AI Principles
-- Responsible development & privacy awareness
+### 🔹 3. Responsible AI
+- Understanding AI risks (bias, hallucination, misinformation)
+- Privacy, ethics, and safety concerns
+- Google’s 7 AI Principles for responsible development
 
 ---
 
-### 🛠️ **4. GenAI Tools by Google**
-🎯 Get to know Google’s powerful AI platforms:
-- **Vertex AI** – build and deploy ML models
-- **PaLM API** – advanced text generation
-- **Imagen** – generate images from text
-- **MakerSuite** – prototype AI-powered apps
+### 🔹 4. GenAI Tools by Google
+- Overview of Google’s GenAI stack:
+  - 🧠 **Vertex AI**
+  - ✍️ **PaLM 2 API**
+  - 🎨 **Imagen**
+  - ⚙️ **MakerSuite**
+- Quick intro to **prompt design** and GenAI development
 
 ---
 
-## 💡 Why This Notebook?
-✨ Written in clean, structured detail  
-📌 Perfect for self-learners, students & developers  
-✅ Based on verified Google Cloud course content  
+## ✨ Highlights
+- 📖 Easy-to-understand breakdowns
+- ✅ Structured by topic
+- 🎯 Perfect for students, beginners & self-learners
 
 ---
 
-## 👤 Author
-
-**Imaad Mahmood**  
-🎓 BS in Artificial Intelligence  
-🧪 AI/ML + GenAI Explorer  
-🔗 GitHub: [imaadmahmood](https://github.com/imaadmahmood)
+## 📌 Author
+**Imaad Mahmood** – BS AI Student | AI & GenAI Explorer  
+📫 *Feel free to explore my GitHub for more AI content.*
 
 ---
 
-> ⭐ If this helped you, consider starring the repo to support!
+> ⭐️ If you found this helpful, star the repo and share it with your peers!
