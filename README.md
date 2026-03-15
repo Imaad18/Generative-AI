@@ -1,4 +1,6 @@
-<h1 align="center">Introduction to Generative AI</h1>
+<p align="center">
+  <img src="assets/banner.jpeg" alt="Introduction to Generative AI Banner" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://colab.research.google.com/drive/1EYz-NZXBxlkaG2wHa1BlmuADM3R6Rmvy#scrollTo=bARz1ZhrfnFn">
