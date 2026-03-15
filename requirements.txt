@@ -1,0 +1,10 @@
+# Core GenAI SDK
+google-generativeai>=0.8.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Utilities
+python-dotenv>=1.0.0
